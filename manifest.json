@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Send Tweet Thumbnail to Grok",
+  "version": "1.0",
+  "description": "Copies tweet video thumbnails to clipboard and opens Grok.",
+  "permissions": [
+    "activeTab",
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "https://x.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}

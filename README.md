@@ -10,3 +10,5 @@ What it does: Opens a grok tab and the original tab becomes an image, you can th
 If you have a GROK API you can then use a different and more "automated" process to this but I don't have one and many don't have one and I wanted something that worked for as many as possible.
 
 To piss on the anti crowd ofc.
+
+Video example: https://x.com/ArturoWolff_/status/2004092092688355422
